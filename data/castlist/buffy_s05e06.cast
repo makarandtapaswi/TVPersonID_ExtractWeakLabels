@@ -1,0 +1,95 @@
+{
+	"episode": "Family S05E06",
+	"Characters": [
+		{
+			"name": "buffy",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "xander",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "willow",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "riley",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "anya",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "dawn",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "spike",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "giles",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "tara",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "harmony",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "glory",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "ben",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "beth",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "maclay",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "leiach",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "sandy",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "donny",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "unknown",
+			"is_important": 1,
+			"gender": "m"
+		}
+	]
+}

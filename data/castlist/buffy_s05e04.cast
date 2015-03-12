@@ -1,0 +1,80 @@
+{
+	"episode": "Out of My Mind S05E04",
+	"Characters": [
+		{
+			"name": "anya",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "ben",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "buffy",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "dawn",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "giles",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "graham",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "harmony",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "joyce",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "overheiser",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "riley",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "spike",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "tara",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "unknown",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "willow",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "xander",
+			"is_important": 1,
+			"gender": "m"
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"Characters": [
+		{
+			"name": "leonard",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "sheldon",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "penny",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "howard",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "raj",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "doug",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "leslie",
+			"is_important": 1,
+			"gender": "f"
+		}
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"episode": "Buffy vs. Dracula S05E01",
+	"Characters": [
+		{
+			"name": "buffy",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "willow",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "xander",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "riley",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "giles",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "spike",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "anya",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "dracula",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "tara",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "dawn",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "joyce",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "unknown",
+			"is_important": 1,
+			"gender": "m"
+		}
+	]
+}

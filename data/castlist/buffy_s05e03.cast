@@ -1,0 +1,75 @@
+{
+	"episode": "The Replacement S05E03",
+	"Characters": [
+		{
+			"name": "anya",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "buffy",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "dawn",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "giles",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "joyce",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "manager",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "mort",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "riley",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "spike",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "toth",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "willow",
+			"is_important": 1,
+			"gender": "f"
+		},
+		{
+			"name": "xander",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "xander2",
+			"is_important": 1,
+			"gender": "m"
+		},
+		{
+			"name": "unknown",
+			"is_important": 1,
+			"gender": "m"
+		}
+	]
+}
